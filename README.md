@@ -6,3 +6,4 @@ Find me on: <br>
 * [Discord](https://discord.gg/Jy6yDC2FMp)
 * [GitHub](https://github.com/hyperio546)
 * [YouTube](https://youtube.com/@hyperio546)
+* [Telegram](https://t.me/hyperio546)
