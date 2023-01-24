@@ -7,3 +7,6 @@ Find me on: <br>
 * [GitHub](https://github.com/hyperio546)
 * [YouTube](https://youtube.com/@hyperio546)
 * [Telegram](https://t.me/hyperio546)
+<br>
+Next website:
+- [Bypass Knox Samsung](https://hyperio546.github.io/bypass-knox-samsung)
