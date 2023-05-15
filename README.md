@@ -8,6 +8,3 @@ Find me on: <br>
 * [GitHub](https://github.com/coderx546)
 * [YouTube](https://youtube.com/@coderx546)
 * [Telegram](https://t.me/coderx546)
-<br><br>
-Next website:
-- [Bypass Knox Samsung](https://coderx546.github.io/knox-bypass-samsung)
