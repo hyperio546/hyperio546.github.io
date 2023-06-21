@@ -3,7 +3,7 @@
 Mostly a hobbyist coder with no real purpose. <br>
 Enjoy life, for it will never come back! <br> <br>
 Find me on: <br>
-* [Reddit](https://reddit.com/u/Hyperio546)
+* [Reddit](https://reddit.com/u/iceberg546)
 * [GitHub](https://github.com/hyperio546)
 * [YouTube](https://youtube.com/@hyperio546)
 * [Telegram](https://t.me/hyperio546)
