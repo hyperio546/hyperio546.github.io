@@ -1,7 +1,7 @@
 # Hey! This is Hyperio!
 "The best way to predict the future is to invent it." - Alan Kay <br>
-Mostly a hobbyist coder with no real purpose. <br>
-Enjoy life, for it will never come back! <br> <br>
+A nobody with no real motive or anything. <br>
+Don't be full of yourself as its never beneficial! <br> <br>
 Find me on: <br>
 * [Reddit](https://reddit.com/u/thefrind54)
 * [GitHub](https://github.com/hyperio546)
@@ -9,4 +9,4 @@ Find me on: <br>
 * [Telegram](https://t.me/hyperio546)
 
 Some cool websites made by me: <br>
-- [Tanpura Online](https://hyperio546.github.io/tanpura-online)
+- [Tanpura Online](https://hyperio546.github.io/tanpura-online) (I still have to work on it)
